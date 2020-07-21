@@ -1,2 +1,2 @@
-# crud-operation-javascript
-CRUD Operation JavaScript
+# Crud Operation Javascript
+CRUD ( Create Read/Retrieve Update Delete) Operation Using Vanila JavaScript
